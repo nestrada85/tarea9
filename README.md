@@ -1,27 +1,15 @@
-# RickAndMortyApp
+# Tarea semana 9 con api
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+Esta semana fue un verdadero reto, hice la tarea investigando y tratando de recolectar mas informacion sobre el uso de apis, pero aunque se que me falta mucho por aprender, logre mostrar una lista de 20 personages de esta api de Rick y Morty
 
-## Development server
+Se creo con:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* Interfaz IPersonaje
+* Servicio
+* Css (Trabaje un diseño sencillo para que se viera un poco mejor)
+* Se crearon modulos
+* Se importaron Librerias como map y HttpClientModule
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Espero realmente haber podido entregar algo adecuado a mi conocimiento actual y a lo que se esperaba en clase.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
